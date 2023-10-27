@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Young+Serif&display=swap');
+*{
+   font-family: 'Young Serif', serif;
+}
+body {
+    background: linear-gradient(blue, green);
+    height: 900px;
+    margin: 0;
+    padding: 15px;
+    color: #fff; 
+    font-size: 24px;
+  }
+
+  div.eredmeny{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
